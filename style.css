@@ -91,7 +91,7 @@
 .flower-3 {
   border-radius: 300px 300px 0px 0px;
   background: rgba(71, 125, 17, 0.15);
-   /* width: 464px;
+  /* width: 464px;
   height: 538px; */
 }
 .flower-img-1 {
@@ -100,7 +100,7 @@
   margin-left: auto;
   margin-right: auto;
   display: block;
- padding: 110px 70px 0px 70px;
+  padding: 110px 70px 0px 70px;
 }
 .flower-img-2 {
   width: 370px;
@@ -150,15 +150,14 @@
   font-weight: 400;
   line-height: 30px;
 }
-.single-word{
-  color: #E55473;
+.single-word {
+  color: #e55473;
 }
-.social-container{
+.social-container {
   margin-top: 150px;
-  
 }
 
-.flowrs{
+.flowrs {
   display: flex;
   justify-content: center;
   gap: 20px;
@@ -166,25 +165,24 @@
   /* margin-left: 200px;
   margin-right: 200px; */
 }
-.social-media{
+.social-media {
   text-align: center;
 }
-.deals-container{
-  
+.deals-container {
   align-items: center;
   text-align: center;
   /* width: 70%; */
   /* margin: auto; */
   margin-left: 420px;
-  background-image: url('./Flower Asset/Rectangle\ 9.png');
+  background-image: url("./Flower Asset/Rectangle\ 9.png");
   background-repeat: no-repeat;
-   margin-top: 100px;
+  margin-top: 100px;
   margin-bottom: 100px;
   padding-top: 50px;
   padding-bottom: 50px;
   padding-right: 450px;
 }
-.contact{
+.contact {
   display: inline;
   padding: 20px 43px;
   width: 700px;
@@ -192,6 +190,34 @@
   border-radius: 8px;
   margin-right: 10px;
 }
-.deals-text{
+.deals-text {
   align-items: center;
+}
+.footer-secton {
+  text-align: center;
+  background-color: #111010;
+  color: white;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+.footer-title {
+  font-size: 48px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.single-word-1 {
+  color: #e55473;
+}
+.footer-description {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+.copyright {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
 }
