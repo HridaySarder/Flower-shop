@@ -153,3 +153,18 @@
 .single-word{
   color: #E55473;
 }
+.social-container{
+  margin-top: 150px;
+}
+
+.flowrs{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  /* margin-left: 200px;
+  margin-right: 200px; */
+}
+.social-media{
+  text-align: center;
+}
