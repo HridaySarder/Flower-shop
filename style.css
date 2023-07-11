@@ -155,6 +155,7 @@
 }
 .social-container{
   margin-top: 150px;
+  
 }
 
 .flowrs{
@@ -167,4 +168,30 @@
 }
 .social-media{
   text-align: center;
+}
+.deals-container{
+  
+  align-items: center;
+  text-align: center;
+  /* width: 70%; */
+  /* margin: auto; */
+  margin-left: 420px;
+  background-image: url('./Flower Asset/Rectangle\ 9.png');
+  background-repeat: no-repeat;
+   margin-top: 100px;
+  margin-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 450px;
+}
+.contact{
+  display: inline;
+  padding: 20px 43px;
+  width: 700px;
+  border: none;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.deals-text{
+  align-items: center;
 }
